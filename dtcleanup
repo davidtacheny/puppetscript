@@ -1,2 +1,0 @@
-puppet apply /etc/puppet/manafest/site.pp
-rm -rf /puppet/files
